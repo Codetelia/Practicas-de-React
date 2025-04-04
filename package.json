@@ -1,0 +1,20 @@
+{
+  "name": "aprendiendo-react",
+  "version": "1.0.0",
+  "description": "Aqui estan mis practicas de codigo para aplicaciones con React.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codetelia/Practicas-de-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codetelia/Practicas-de-React/issues"
+  },
+  "homepage": "https://github.com/Codetelia/Practicas-de-React#readme"
+}
